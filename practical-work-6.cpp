@@ -32,6 +32,7 @@ int main()
         f = a * x + 5 * b;
 
     cout  << "F = " << f << endl;
+    cout << "Edit code for github";
 
     return 0;
 }
