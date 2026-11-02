@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//edited for lab_work
 int main()
 {
     
