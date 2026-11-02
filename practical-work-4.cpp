@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//edited for lab_work
+//edited for lab_work with tag
 int main()
 {
     
